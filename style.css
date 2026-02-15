@@ -124,3 +124,8 @@ img {
     display: block;
   }
 }
+.sidebar a {
+  display: block;
+  padding: 10px;
+  touch-action: manipulation;
+}
